@@ -28,6 +28,3 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 project(RootDirectory LANGUAGES C CXX VERSION 1.0.0)
 
 add_subdirectory(Submodule)
-#add_subdirectory()
-#add_subdirectory()
-#add_subdirectory()
